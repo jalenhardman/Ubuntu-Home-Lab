@@ -15,4 +15,4 @@ This lab demonstrates foundational skills in:
 - Network connectivity
 - SOC-style documentation
 
-Screenshots and notes are included as evidence.
+Screenshots and notes are included as evidence in a separate folder.
